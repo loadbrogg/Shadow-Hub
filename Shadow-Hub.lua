@@ -50,7 +50,3 @@ UniversalTab:CreateButton({
 
 -- LOAD KONFIGURASI
 Rayfield:LoadConfiguration()
-
-
-
-Tolong benerin script yang di atas dan Jadiin ke github caranya gimana?
